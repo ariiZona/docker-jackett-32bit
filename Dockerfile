@@ -16,6 +16,7 @@ RUN \
  apt-get update && \
  apt-get install -y \
 	bzip2 \
+	curl \
 	libcurl4-openssl-dev \
 	libmono-cil-dev \
 	wget && \
