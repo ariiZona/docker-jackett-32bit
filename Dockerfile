@@ -1,4 +1,4 @@
-FROM lsiobase/xenial.arm64
+FROM ioft/i386-ubuntu:xenial
 MAINTAINER sparklyballs
 
 # set version label
