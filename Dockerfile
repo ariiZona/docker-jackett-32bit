@@ -25,7 +25,6 @@ RUN \
 	bzip2 \
 	curl \
 	libcurl4-openssl-dev \
-	libmono-cil-dev \
 	mono-devel \
 	wget && \
 
