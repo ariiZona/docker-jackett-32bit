@@ -1,4 +1,4 @@
-FROM ioft/i386-ubuntu:xenial
+FROM arizonaa/baseimage-xenial
 MAINTAINER sparklyballs
 
 # set version label
